@@ -1,0 +1,6 @@
+Hangman Console Game   (Java programming language)
+
+This Game is a game for testing knowledge of english words
+You have 3 chances to say wrong letters
+if you finished your chances you lose
+if you were able to  guess the word without exceeding chances --> you win
